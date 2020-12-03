@@ -1,5 +1,5 @@
 # Machine-Learning-in-Finance
-This repository serves as an Archive containing solutions and notes for **"Machine Learning and Reinforcement Learning in Finance"** Specialization from New York University by Coursera. 
+This repository serves as an Archive containing solutions and notes for **"Machine Learning and Reinforcement Learning in Finance"** Coursera Specialization by New York University.
 
 ## I strongly recommend to think on and implement the assignments by yourself and then check the solutions. Please respect the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863)
 
